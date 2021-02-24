@@ -100,4 +100,3 @@ class DaMath:
                 counter += 1
             return sorted(sample)
 
-
